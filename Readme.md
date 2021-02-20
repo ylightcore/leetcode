@@ -10,6 +10,8 @@
 |561|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/561.数组拆分-i.java)|
 |566|[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/566.重塑矩阵.java)|
 |567|[字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/description/)|Medium|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/567.字符串的排列.java)|
+|697|[数组的度](https://leetcode-cn.com/problems/degree-of-an-array/description/)|Easy|golang|[link](https://github.com/zqrren/leetcode/tree/main/problems/697.数组的度.go)|
+|697|[数组的度](https://leetcode-cn.com/problems/degree-of-an-array/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/697.数组的度.java)|
 |765|[情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/description/)|Hard|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/765.情侣牵手.java)|
 |778|[水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/description/)|Hard|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/778.水位上升的泳池中游泳.java)|
 |995|[K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/description/)|Hard|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/995.k-连续位的最小翻转次数.java)|
