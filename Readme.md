@@ -7,6 +7,7 @@
 |116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/description/)|Medium|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/116.填充每个节点的下一个右侧节点指针.java)|
 |117|[填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/description/)|Medium|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/117.填充每个节点的下一个右侧节点指针-ii.java)|
 |124|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/description/)|Hard|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/124.二叉树中的最大路径和.java)|
+|1438|[绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)|Medium|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/1438.绝对差不超过限制的最长连续子数组.java)|
 |561|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/561.数组拆分-i.java)|
 |566|[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/566.重塑矩阵.java)|
 |567|[字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/description/)|Medium|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/567.字符串的排列.java)|
