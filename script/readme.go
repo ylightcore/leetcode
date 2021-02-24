@@ -41,6 +41,7 @@ var githubRootLink = "https://github.com/zqrren/leetcode"
 func main() {
 	rootPath, _ = filepath.Abs("./")
 	files, dir := readFiles()
+	fmt.Println("read file success")
 	b := new(bytes.Buffer)
 	for _, file := range files {
 		if file.IsDir() {
