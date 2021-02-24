@@ -18,5 +18,6 @@
 |766|[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|Easy|golang|[link](https://github.com/zqrren/leetcode/tree/main/problems/766.托普利茨矩阵.go)|
 |766|[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/766.托普利茨矩阵.java)|
 |778|[水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/description/)|Hard|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/778.水位上升的泳池中游泳.java)|
+|832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/832.翻转图像.java)|
 |995|[K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/description/)|Hard|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/995.k-连续位的最小翻转次数.java)|
 
