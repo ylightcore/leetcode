@@ -22,5 +22,6 @@
 |778|[水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/description/)|Hard|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/778.水位上升的泳池中游泳.java)|
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/832.翻转图像.java)|
 |867|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/867.转置矩阵.java)|
+|896|[单调数列](https://leetcode-cn.com/problems/monotonic-array/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/896.单调数列.java)|
 |995|[K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/description/)|Hard|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/995.k-连续位的最小翻转次数.java)|
 
