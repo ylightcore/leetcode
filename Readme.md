@@ -10,6 +10,7 @@
 |1178|[猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/description/)|Hard|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/1178.猜字谜.java)|
 |124|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/description/)|Hard|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/124.二叉树中的最大路径和.java)|
 |1438|[绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)|Medium|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/1438.绝对差不超过限制的最长连续子数组.java)|
+|395|[至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)|Medium|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/395.至少有k个重复字符的最长子串.java)|
 |561|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/561.数组拆分-i.java)|
 |566|[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/)|Easy|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/566.重塑矩阵.java)|
 |567|[字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/description/)|Medium|java|[link](https://github.com/zqrren/leetcode/tree/main/problems/567.字符串的排列.java)|
