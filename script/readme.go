@@ -39,7 +39,9 @@ var fileRootPath string
 var githubRootLink = "https://github.com/zqrren/leetcode"
 
 func main() {
+	fmt.Println("start")
 	rootPath, _ = filepath.Abs("./")
+	fmt.Println("start read file")
 	files, dir := readFiles()
 	fmt.Println("read file success")
 	b := new(bytes.Buffer)
